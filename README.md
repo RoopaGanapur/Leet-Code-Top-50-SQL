@@ -4,7 +4,7 @@
 **** **I’ve completed the SQL 50 batch on LeetCode!******
 
 Working on these challenges has greatly enhanced my SQL skills, from mastering complex queries to optimizing database performance.
-hashtag#SQL hashtag#LeetCode hashtag#Databases hashtag#DataAnalysis 
+
 Acquired SQL 50 Badge on LeetCode. 💻 
 It has 50 questions from various topics like:
 1- Select
